@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24ce3cc5-74a8-4fa4-b5ee-04a160d81d5c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mhPEykJgpA9raiYUkX9Tr6vEFk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.15.3" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.14.20" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/binarysearchtree/tests" />
+      <recent name="$PROJECT_DIR$/binarysearchtree" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.run.js">
+    <configuration default="true" type="NodeJSConfigurationType" path-to-js-file="run.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="run.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="run.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="Binary Search Tree Tests.#add.should contain the value 4" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/binarysearchtree/tests/binarysearchtreeTests.js</test-file>
+      <test-names>
+        <name value="Binary Search Tree Tests" />
+        <name value="#add" />
+        <name value="should contain the value 4" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Binary Search Tree Tests.#inOrderTraversal.should return values in order" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/binarysearchtree/tests/binarysearchtreeTests.js</test-file>
+      <test-names>
+        <name value="Binary Search Tree Tests" />
+        <name value="#inOrderTraversal" />
+        <name value="should return values in order" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="runTests" type="mocha-javascript-test-runner">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/binarysearchtree/tests/binarysearchtreeTests.js</test-file>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Mocha.runTests" />
+      <item itemvalue="Node.js.run.js" />
+      <item itemvalue="Mocha.Binary Search Tree Tests.#add.should contain the value 4" />
+      <item itemvalue="Mocha.Binary Search Tree Tests.#inOrderTraversal.should return values in order" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Mocha.Binary Search Tree Tests.#inOrderTraversal.should return values in order" />
+        <item itemvalue="Mocha.Binary Search Tree Tests.#add.should contain the value 4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24ce3cc5-74a8-4fa4-b5ee-04a160d81d5c" name="Default Changelist" comment="" />
+      <created>1609942741920</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609942741920</updated>
+      <workItem from="1609942742950" duration="11538000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2216" y="213" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609945073877">
+      <screen x="1792" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2216" y="213" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/1792.23.1920.1057/0.23.1792.1097@1792.23.1920.1057" timestamp="1609945073877" />
+    <state width="454" height="466" key="DebuggerActiveHint" timestamp="1609947120519">
+      <screen x="1792" y="23" width="1920" height="1057" />
+    </state>
+    <state width="454" height="466" key="DebuggerActiveHint/1792.23.1920.1057/0.23.1792.1097@1792.23.1920.1057" timestamp="1609947120519" />
+    <state width="1899" height="423" key="GridCell.Tab.0.bottom" timestamp="1609958395830">
+      <screen x="1792" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="423" key="GridCell.Tab.0.bottom/1792.23.1920.1057/0.23.1792.1097@1792.23.1920.1057" timestamp="1609958395830" />
+    <state width="1899" height="423" key="GridCell.Tab.0.center" timestamp="1609958395829">
+      <screen x="1792" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="423" key="GridCell.Tab.0.center/1792.23.1920.1057/0.23.1792.1097@1792.23.1920.1057" timestamp="1609958395829" />
+    <state width="1899" height="423" key="GridCell.Tab.0.left" timestamp="1609958395829">
+      <screen x="1792" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="423" key="GridCell.Tab.0.left/1792.23.1920.1057/0.23.1792.1097@1792.23.1920.1057" timestamp="1609958395829" />
+    <state width="1899" height="423" key="GridCell.Tab.0.right" timestamp="1609958395829">
+      <screen x="1792" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="423" key="GridCell.Tab.0.right/1792.23.1920.1057/0.23.1792.1097@1792.23.1920.1057" timestamp="1609958395829" />
+    <state width="1899" height="172" key="GridCell.Tab.1.bottom" timestamp="1609957596509">
+      <screen x="1792" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="172" key="GridCell.Tab.1.bottom/1792.23.1920.1057/0.23.1792.1097@1792.23.1920.1057" timestamp="1609957596509" />
+    <state width="1899" height="172" key="GridCell.Tab.1.center" timestamp="1609957596509">
+      <screen x="1792" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="172" key="GridCell.Tab.1.center/1792.23.1920.1057/0.23.1792.1097@1792.23.1920.1057" timestamp="1609957596509" />
+    <state width="1899" height="172" key="GridCell.Tab.1.left" timestamp="1609957596509">
+      <screen x="1792" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="172" key="GridCell.Tab.1.left/1792.23.1920.1057/0.23.1792.1097@1792.23.1920.1057" timestamp="1609957596509" />
+    <state width="1899" height="172" key="GridCell.Tab.1.right" timestamp="1609957596509">
+      <screen x="1792" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="172" key="GridCell.Tab.1.right/1792.23.1920.1057/0.23.1792.1097@1792.23.1920.1057" timestamp="1609957596509" />
+    <state width="1899" height="172" key="GridCell.Tab.2.bottom" timestamp="1609957596510">
+      <screen x="1792" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="172" key="GridCell.Tab.2.bottom/1792.23.1920.1057/0.23.1792.1097@1792.23.1920.1057" timestamp="1609957596510" />
+    <state width="1899" height="172" key="GridCell.Tab.2.center" timestamp="1609957596510">
+      <screen x="1792" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="172" key="GridCell.Tab.2.center/1792.23.1920.1057/0.23.1792.1097@1792.23.1920.1057" timestamp="1609957596510" />
+    <state width="1899" height="172" key="GridCell.Tab.2.left" timestamp="1609957596509">
+      <screen x="1792" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="172" key="GridCell.Tab.2.left/1792.23.1920.1057/0.23.1792.1097@1792.23.1920.1057" timestamp="1609957596509" />
+    <state width="1899" height="172" key="GridCell.Tab.2.right" timestamp="1609957596510">
+      <screen x="1792" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="172" key="GridCell.Tab.2.right/1792.23.1920.1057/0.23.1792.1097@1792.23.1920.1057" timestamp="1609957596510" />
+    <state width="1899" height="172" key="GridCell.Tab.3.bottom" timestamp="1609957596511">
+      <screen x="1792" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="172" key="GridCell.Tab.3.bottom/1792.23.1920.1057/0.23.1792.1097@1792.23.1920.1057" timestamp="1609957596511" />
+    <state width="1899" height="172" key="GridCell.Tab.3.center" timestamp="1609957596511">
+      <screen x="1792" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="172" key="GridCell.Tab.3.center/1792.23.1920.1057/0.23.1792.1097@1792.23.1920.1057" timestamp="1609957596511" />
+    <state width="1899" height="172" key="GridCell.Tab.3.left" timestamp="1609957596510">
+      <screen x="1792" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="172" key="GridCell.Tab.3.left/1792.23.1920.1057/0.23.1792.1097@1792.23.1920.1057" timestamp="1609957596510" />
+    <state width="1899" height="172" key="GridCell.Tab.3.right" timestamp="1609957596511">
+      <screen x="1792" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="172" key="GridCell.Tab.3.right/1792.23.1920.1057/0.23.1792.1097@1792.23.1920.1057" timestamp="1609957596511" />
+  </component>
+</project>

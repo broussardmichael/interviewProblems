@@ -1,0 +1,14 @@
+{
+  "name": "interviewproblems",
+  "version": "1.0.0",
+  "description": "collection of problems i'm practicing",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "michael broussard",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^8.2.1"
+  }
+}
